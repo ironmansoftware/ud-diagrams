@@ -30,3 +30,6 @@ Please report issues within the [Universal Dashboard Repository](https://github.
 This component requires a [Universal Dashboard Enterprise](https://ironmansoftware.com/powershell-universal-dashboard) license. 
 
 
+# Icon 
+
+http://www.iconarchive.com/show/ios7-icons-by-icons8/Data-Flow-Chart-icon.html
